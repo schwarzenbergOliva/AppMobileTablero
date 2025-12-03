@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "TableroApp"
+=======
+rootProject.name = "AppChris"
+>>>>>>> 525f946f02f6995a50010b3fcde2c7ddc34ad534
 include(":app")

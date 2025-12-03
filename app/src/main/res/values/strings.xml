@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">TableroApp</string>
+=======
+    <string name="app_name">AppChris</string>
+>>>>>>> 525f946f02f6995a50010b3fcde2c7ddc34ad534
 </resources>

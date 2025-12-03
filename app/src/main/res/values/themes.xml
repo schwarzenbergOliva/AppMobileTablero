@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.TableroApp" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.AppChris" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 525f946f02f6995a50010b3fcde2c7ddc34ad534
 </resources>
